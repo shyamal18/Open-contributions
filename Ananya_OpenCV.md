@@ -1,27 +1,26 @@
 ## Machine Learning:    
 ```
-Classification
-Regression
-Decision Trees
-Random Forests
-Ensmeble Leaning Methods
-Clustering
-Dimensionality Redcution
-Support Vector Machines
-Boosting ALgorithms
-Bias-Variance
-Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+Clustering Techniques (k-means, hierachical)    
+Dimenstionality Reduction(only theory)    
+Regression(Simple, Multiple)    
+Logistic Regression   
+Naive-Bayes Classifier    
+Support Vector Machines   
+Decision Trees, Random Forests, AdaBoost    
+Evaluation Metrics (Confusion Matrix, Accuracy, AOC ROC, Precision, Recall, F1-score)
 ```
 
 ## Deep Learning:
 ```
-Backpropagation
-ConvNet
-Batch Normalization
-Transfer Learning
-Hyperparameter tuning
-Data Augmentation
-Optimization 
+- Activation Functions (linear, nonlinear - ReLU, LeakyReLU, Tanh, Sigmoid)
+- Cost Function, Gradient Descent, Forward Propagation, Backward Propagation, Gradients updates.
+- Bias-Variance tradeoff
+- Difference between Normalied Data and Actual(Non-Normalised) Data
+- Usecases of Batch Gradient Descent, Stochastic Gradient Descent, Mini-Batch Gradient Descent
+- Gradient Descent, Momentum, RMS Propagation
+- Transfer Learning
+- Hyperparameter tuning
+- Data Augmentation
 ```
 
 
