@@ -16,7 +16,7 @@ Boosting ALgorithms
 Bias-Variance
 Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
 ```
-# Deep Learning Topics
+## Deep Learning Topics
 ```
 Backpropagation
 ConvNet
@@ -27,10 +27,10 @@ Data Augmentation
 Optimization (adam, RMS, RMSProp)
 ```
 
-# Data Analysis
-# Data Cleaning
-# Data Wrangling
-# Data Visualization
-# SQL
-# Tableau
-# MS-Excel
+## Data Analysis
+## Data Cleaning
+## Data Wrangling
+## Data Visualization
+## SQL
+## Tableau
+## MS-Excel
