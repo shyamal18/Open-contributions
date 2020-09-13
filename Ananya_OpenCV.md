@@ -1,13 +1,13 @@
 ## Machine Learning:    
 ```
-Clustering Techniques (k-means, hierachical)    
-Dimenstionality Reduction(only theory)    
-Regression(Simple, Multiple)    
-Logistic Regression   
-Naive-Bayes Classifier    
-Support Vector Machines   
-Decision Trees, Random Forests, AdaBoost    
-Evaluation Metrics (Confusion Matrix, Accuracy, AOC ROC, Precision, Recall, F1-score)
+- Clustering Techniques (k-means, hierachical)    
+- Dimenstionality Reduction(only theory)    
+- Regression(Simple, Multiple)    
+- Logistic Regression   
+- Naive-Bayes Classifier    
+- Support Vector Machines   
+- Decision Trees, Random Forests, AdaBoost    
+- Evaluation Metrics (Confusion Matrix, Accuracy, AOC ROC, Precision, Recall, F1-score)
 ```
 
 ## Deep Learning:
